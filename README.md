@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
+| [1254-number-of-closed-islands](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3886-sum-of-sortable-integers) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -79,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2409-count-days-spent-together](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
