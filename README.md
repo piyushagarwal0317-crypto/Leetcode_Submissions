@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
