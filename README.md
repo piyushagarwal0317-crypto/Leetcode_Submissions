@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0480-sliding-window-median](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0480-sliding-window-median) |
 | [1254-number-of-closed-islands](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0480-sliding-window-median) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
@@ -123,9 +125,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0480-sliding-window-median) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0480-sliding-window-median) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
