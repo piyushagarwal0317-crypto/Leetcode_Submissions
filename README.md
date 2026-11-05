@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0480-sliding-window-median) |
 | [1254-number-of-closed-islands](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0480-sliding-window-median) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
