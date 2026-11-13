@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3665-twisted-mirror-path-count) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/0480-sliding-window-median) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Treap
 |  |
 | ------- |
@@ -147,4 +149,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/piyushagarwal0317-crypto/Leetcode_Submissions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
